@@ -1,0 +1,6 @@
+Student_ID,Department,Company,Package_LPA,Status
+1,CSE,TCS,4.5,Placed
+2,CSE,Infosys,5.0,Placed
+3,ECE,None,0.0,Not Placed
+4,EEE,Wipro,3.8,Placed
+5,CSE,Accenture,6.2,Placed
